@@ -1,6 +1,6 @@
 # Welcome to the Project!
 
-- Author: Chaitanya Sharma
+ Author: Chaitanya Sharma
 
 - Twitter: @MiGhty__31
 
