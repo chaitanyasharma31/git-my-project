@@ -6,4 +6,4 @@ Twitter: @MiGhty__31
 
 Website: https://www.csoncloud.com
 
-GitHub: https://www.github,com/chaitanyasharma31
+GitHub: https://www.github.com/chaitanyasharma31
