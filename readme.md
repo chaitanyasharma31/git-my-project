@@ -1,5 +1,5 @@
 Welcome to the Project!
 
-Author: Mr. Chaitanya Sharma
+Author: Chaitanya Sharma
 
 Twitter: @MiGhty__31
