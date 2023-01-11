@@ -1,9 +1,9 @@
 # Welcome to the Project!
 
-Author: Chaitanya Sharma
+- Author: Chaitanya Sharma
 
-Twitter: @MiGhty__31
+- Twitter: @MiGhty__31
 
-Website: https://www.csoncloud.com
+- Website: https://www.csoncloud.com
 
-GitHub: https://www.github.com/chaitanyasharma31
+- GitHub: https://www.github.com/chaitanyasharma31
