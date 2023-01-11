@@ -1,5 +1,5 @@
 This is my project!
 
-Author: Chaitanya
+Author: Chaitanya Sharma
 
 Twitter: @MiGhty__31
